@@ -1,4 +1,4 @@
-# Abstract
+# Proyecto DS - Zarahí Guevara
 
 El objetivo de este análisis es identificar patrones entre diversos factores y la severidad de los ataques de ansiedad, con el fin de comprender mejor los riesgos asociados y posibles estrategias de prevención. La ansiedad es un problema de salud mental creciente, influenciado por factores como el estrés, el consumo de cafeína y los antecedentes familiares. Se estudiará la relación entre estos elementos clave, así como la influencia de otros factores como el sueño y la actividad física.
 
